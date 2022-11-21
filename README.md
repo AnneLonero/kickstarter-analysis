@@ -16,13 +16,13 @@ There were some challenges encountered when using the function COUNTIFS to pull 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114631804/202930512-4d50a76a-e35e-465d-94bf-38186ce9b851.png)
 
-May has the highest number of successful projects while there is no correlation between the lauch date and the number of failed and canceled project.
+The month of **May** has the highest number of successful projects while there is **no correlation** between the lauch date and the number of failed and canceled project.
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114631804/202930574-ff671334-d6b7-4224-af64-54a38e9d5a22.png)
 
-The two lines represent successful and failed number projects mirror each other exactly, while there is no line indicated canceled project.
+The two lines represent successful and failed number projects **mirror each other exactly**, while there is **no line** indicated canceled project.
 
 ### Challenges and Difficulties Encountered
 
@@ -30,18 +30,18 @@ Aside from challenge encountered when using the "$" in COUNTIF fuction, it took 
 
 ## Results
 
-What are two conclusions you can draw about the Outcomes based on Launch Date?
+*What are two conclusions you can draw about the Outcomes based on Launch Date?*
 
-Based on an analysis, the month of May has the highest number of successful campaigns, and the number is relative high during summer months (May to August).However, there is no correlation between launch dates and the number of failed and cancelled campaigns.
+Based on an analysis, the month of May has the highest number of successful campaigns, and the number is relative high during summer months (May to August).However, there is **no correlation** between launch dates and the number of failed and cancelled campaigns.
 
-What can you conclude about the Outcomes based on Goals?
+*What can you conclude about the Outcomes based on Goals?*
 
 There is no play project got cancelled. Therefore, based on the datasets that we selected, outcomes were either failed our successful.
 
-What are some limitations of this dataset? 
+*What are some limitations of this dataset?* 
 
 This dataset only includes "play" projects while there are many categories can be potentially included for the analysis. Also, within the "play" category, there is data for "live" projects available but isn't included. This leads to "mirror" results in two lines, while the "cancelled" category is irrelevant. With a larger and better sample, we can get a better result for this analysis.
 
-What are some other possible tables and/or graphs that we could create? 
+*What are some other possible tables and/or graphs that we could create?* 
 
 Per limitation identified regarding the data sample, we can potentially create an "Outcomes based on Goal" graph includes "live" project instead of cancelled projects. We can also create an analysis of the goal versus the pledge amount to further evaluate the outcome of successful/failed project to identify the trend for future planning.
