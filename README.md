@@ -30,21 +30,21 @@ Aside from challenge encountered when using the "$" in COUNTIF fuction, it took 
 
 ## Results
 
-##### *What are two conclusions you can draw about the Outcomes based on Launch Date?*
+### *What are two conclusions you can draw about the Outcomes based on Launch Date?*
   
   Based on an analysis, the month of May has the highest number of successful campaigns, and the number is relative high during summer months (May to August).However, there is **no correlation** between launch dates and the number of failed and cancelled campaigns.
 
 
-##### *What can you conclude about the Outcomes based on Goals?*
+### *What can you conclude about the Outcomes based on Goals?*
    
    There is no play project got cancelled. Therefore, based on the datasets that we selected, outcomes were either failed our successful.
 
 
-##### *What are some limitations of this dataset?* 
+### *What are some limitations of this dataset?* 
    
    This dataset only includes "play" projects while there are many categories can be potentially included for the analysis. Also, within the "play" category, there is data for "live" projects available but isn't included. This leads to "mirror" results in two lines, while the "cancelled" category is irrelevant. With a larger and better sample, we can get a better result for this analysis.
 
 
-##### *What are some other possible tables and/or graphs that we could create?* 
+### *What are some other possible tables and/or graphs that we could create?* 
   
   Per limitation identified regarding the data sample, we can potentially create an "Outcomes based on Goal" graph includes "live" project instead of cancelled projects. We can also create an analysis of the goal versus the pledge amount to further evaluate the outcome of successful/failed project to identify the trend for future planning.
