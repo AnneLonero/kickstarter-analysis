@@ -16,7 +16,7 @@ There were some challenges encountered when using the function COUNTIFS to pull 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114631804/202930512-4d50a76a-e35e-465d-94bf-38186ce9b851.png)
 
-May has the highest number of successful projects while there is no correlation between the lauch date and the number or failed and canceled project.
+May has the highest number of successful projects while there is no correlation between the lauch date and the number of failed and canceled project.
 
 ### Analysis of Outcomes Based on Goals
 
