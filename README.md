@@ -14,15 +14,17 @@ There were some challenges encountered when using the function COUNTIFS to pull 
 
 ### Analysis of Outcomes Based on Launch Date
 
+The month of **_May_** has the highest number of successful projects while there is **_no correlation_** between the lauch date and the number of failed and canceled project.
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/114631804/202930512-4d50a76a-e35e-465d-94bf-38186ce9b851.png)
 
-The month of **_May_** has the highest number of successful projects while there is **_no correlation_** between the lauch date and the number of failed and canceled project.
 
 ### Analysis of Outcomes Based on Goals
 
+The two lines represent successful and failed number projects **_mirror each other exactly_**, while there is **_no line_** indicated canceled project.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/114631804/202930574-ff671334-d6b7-4224-af64-54a38e9d5a22.png)
 
-The two lines represent successful and failed number projects **_mirror each other exactly_**, while there is **_no line_** indicated canceled project.
 
 ### Challenges and Difficulties Encountered
 
