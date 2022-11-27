@@ -39,7 +39,7 @@ Aside from challenge encountered when using the "$" in COUNTIF fuction, it took 
 
 #### *What can you conclude about the Outcomes based on Goals?*
    
-   There is no play project got cancelled. Therefore, based on the datasets that we selected, outcomes were either failed our successful.
+   There is no play project got cancelled. Therefore, based on the datasets that we selected, outcomes were either failed or successful.
 
 
 #### *What are some limitations of this dataset?* 
